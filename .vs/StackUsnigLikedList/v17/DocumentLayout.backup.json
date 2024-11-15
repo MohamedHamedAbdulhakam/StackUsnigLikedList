@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohamed\\source\\repos\\StackUsnigLikedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB85CD1-28E2-49E4-A4C4-FAA37E1E9ABD}|StackUsnigLikedList\\StackUsnigLikedList.vcxproj|C:\\Users\\mohamed\\source\\repos\\StackUsnigLikedList\\StackUsnigLikedList\\StackUsnigLikedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FB85CD1-28E2-49E4-A4C4-FAA37E1E9ABD}|StackUsnigLikedList\\StackUsnigLikedList.vcxproj|solutionrelative:StackUsnigLikedList\\StackUsnigLikedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackUsnigLikedList.cpp",
+              "DocumentMoniker": "C:\\Users\\mohamed\\source\\repos\\StackUsnigLikedList\\StackUsnigLikedList\\StackUsnigLikedList.cpp",
+              "RelativeDocumentMoniker": "StackUsnigLikedList\\StackUsnigLikedList.cpp",
+              "ToolTip": "C:\\Users\\mohamed\\source\\repos\\StackUsnigLikedList\\StackUsnigLikedList\\StackUsnigLikedList.cpp",
+              "RelativeToolTip": "StackUsnigLikedList\\StackUsnigLikedList.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAA6wFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T21:09:05.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
